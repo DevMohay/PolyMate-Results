@@ -6,6 +6,10 @@
   {
     "season": "2023",
     "url": "https://raw.githubusercontent.com/DevMohay/PolyMate-Results/refs/heads/main/student-results/season2023.json"
+  } ,
+  {
+    "season":"2024",
+    "url":"https://raw.githubusercontent.com/DevMohay/PolyMate-Results/refs/heads/main/student-results/season2024.json"
   }
   
 ]
